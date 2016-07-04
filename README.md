@@ -2,6 +2,13 @@ Client for api zagruzka.com
 ===========================
 Client for api zagruzka.com
 
+[![Latest Stable Version](https://poser.pugx.org/sevenfloor/yii2-zagruzka/version)](https://packagist.org/packages/sevenfloor/yii2-zagruzka)
+[![Total Downloads](https://poser.pugx.org/sevenfloor/yii2-zagruzka/downloads)](https://packagist.org/packages/sevenfloor/yii2-zagruzka)
+[![Latest Unstable Version](https://poser.pugx.org/sevenfloor/yii2-zagruzka/v/unstable)](//packagist.org/packages/sevenfloor/yii2-zagruzka)
+[![License](https://poser.pugx.org/sevenfloor/yii2-zagruzka/license)](https://packagist.org/packages/sevenfloor/yii2-zagruzka)
+[![composer.lock available](https://poser.pugx.org/sevenfloor/yii2-zagruzka/composerlock)](https://packagist.org/packages/sevenfloor/yii2-zagruzka)
+
+
 Installation
 ------------
 
