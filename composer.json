@@ -1,0 +1,21 @@
+{
+    "name": "sevenfloor/yii2-zagruzka",
+    "description": "Client for api zagruzka.com",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","zagruzka"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Ignatenkov Nikita",
+            "email": "ignatenkov.n@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sevenfloor\\zagruzka\\": ""
+        }
+    }
+}
